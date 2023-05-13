@@ -1,0 +1,16 @@
+maj 13, 2023 6:11:33 EM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from file
+maj 13, 2023 6:11:33 EM org.example.GUI readCredentialsFromFile
+INFO: Reading login credentials from file
+maj 13, 2023 6:13:02 EM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from file
+maj 13, 2023 6:13:02 EM org.example.GUI readCredentialsFromFile
+INFO: Reading login credentials from file
+maj 13, 2023 7:04:45 EM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from Swing input
+maj 13, 2023 7:05:35 EM org.example.GUI saveCredentialsToFile
+INFO: Saving login credentials to file
+maj 13, 2023 7:07:20 EM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from file
+maj 13, 2023 7:07:20 EM org.example.GUI readCredentialsFromFile
+INFO: Reading login credentials from file
